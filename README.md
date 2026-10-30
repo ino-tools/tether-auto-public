@@ -36,7 +36,7 @@ Bluetoothの接続を検知 → 画面を点灯 → クイック設定パネル�
 ## 意見箱
 アプリ内の「意見箱」から送れます。ブラウザでフォームが開きます(アカウントは不要で、入力した内容だけが送られます)。要望・不具合・動いた/動かなかった機種の報告を歓迎します。
 
-[意見箱のフォームを開く](https://docs.google.com/forms/d/e/1FAIpQLSdpTwTsx8vp2_yOTXoyFKdRHMmnYubfvVuq7tn4ijaNPWTHOA/viewform) / 公開で書きたいときは [Issues](../../issues/new) へ。
+[意見箱のフォームを開く](https://docs.google.com/forms/d/e/1FAIpQLSdpTwTsx8vp2_yOTXoyFKdRHMmnYubfvVuq7tn4ijaNPWTHOA/viewform)。届いた意見は毎日確認し、対応できるものはアプリに反映します。
 
 ## 応援・ご協力のお願い
 個人開発で、できるだけ安く提供するために、みなさまのご協力で続けています。目安は100円です。役に立ったら、寄付で応援してもらえるとうれしいです。
